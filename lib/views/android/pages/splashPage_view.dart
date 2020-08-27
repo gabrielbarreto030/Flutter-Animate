@@ -1,4 +1,4 @@
-import 'package:agendaconsulta/android/views/widgets/Animates_widgets.dart';
+import 'package:agendaconsulta/views/shared/widgets/Animates_widgets.dart';
 import 'package:flutter/material.dart';
 
 class SplashPage extends StatelessWidget {
